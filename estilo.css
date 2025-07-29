@@ -12,7 +12,7 @@ header{
 }
 h1{
 	text-align: center;
-	color: #333;
+	color: black;
 }
 nav a{
     color: black;
@@ -33,7 +33,7 @@ input,textarea,select{
 	width: 80%;
 	padding: 10px;
 	margin-bottom: 15px;
-	border: ipx solid #ccc;
+	border: 1px solid #ccc;
 	border-radius: 4px;
 }
 input[type="submit"]{
@@ -50,15 +50,15 @@ input[type="submit"]:hover{
     margin: 20px;
     padding: 15px;
     background-color: #f4f4f4;
-    border border-radius: 8px;
+    border-radius: 8px;
     box-shadow:  0 0 10px rgb(0, 0, 130.1);
 }
 
 .contenedor h2{
-    color #333;
+    color: antiquewhite;
 }
 .contenedor h3{
-    color #555;
+    color: antiquewhite;
     font-size: 16px;
     line-height: 1.6;
 }
